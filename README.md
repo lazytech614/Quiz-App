@@ -7,11 +7,6 @@ Welcome to the **Quiz App**! This interactive web application is designed to hel
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [App Structure](#app-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
